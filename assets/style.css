@@ -235,17 +235,18 @@ footer a {
   article h2 {
     font-weight: bold;
   }
-  iframe{
+  iframe {
     width: 50%;
     display: inline;
   }
-  section{
+  section {
     width: 50%;
-    float:  right;
+    float: right;
     border-radius: 20px;
     height: 15.1rem;
   }
-aside div {
-    
-}
+  aside div {
+    width: 33%;
+    display: inline-block;
+  }
 }
